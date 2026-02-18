@@ -9,7 +9,6 @@ Mostly building. Occasionally thinking.
                   </p>
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
