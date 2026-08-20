@@ -1,65 +1,18 @@
-# Mohamed Chafik
+<h1 align="center">Hi, I'm Mohamed Chafik 👋</h1>
 
-I build things to understand them.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Software%20Engineer%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Automotive%3BOpen%20Source%20Enthusiast" alt="Typing SVG" />
+</div>
 
-Mostly software, embedded systems, electronics, and whatever sits somewhere between them.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,nextjs,ts,python,flask,nodejs,go,cpp,tailwind&perline=10&theme=tokyonight" />
+</div>
 
-## Currently
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=mochafik26-source&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="50%" alt="Top Languages" />
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=mochafik26-source&theme=tokyonight&hide_border=false&border_radius=10" width="50%" alt="GitHub Streak" />
+</div>
 
-* Building projects with **C++, Go, JavaScript, and Python**
-* Working with **ESP32, Arduino, EEPROMs, sensors, and communication protocols**
-* Learning more about **Linux, embedded systems, and low-level programming**
-* Trying to turn ideas into things that actually work
-
-## Projects
-
-### [JumpStart](https://github.com/)
-
-A tool for getting projects off the ground without spending an hour figuring out what to install.
-
-### Password Manager
-
-A hardware-based password manager using an ESP32 and EEPROM.
-Because apparently putting passwords in a database wasn't interesting enough.
-
-### Energy Monitor
-
-An electronics project for measuring voltage and current and turning raw measurements into something useful.
-
-## What I like
-
-```text
-code
-  ↓
-hardware
-  ↓
-systems
-  ↓
-machines
-  ↓
-"what if I build this?"
-```
-
-I like projects that force me to understand what is happening underneath the abstraction.
-
-## Stack
-
-**Languages**
-
-`C++` `Go` `JavaScript` `Python` `Bash`
-
-**Embedded**
-
-`ESP32` `Arduino` `I2C` `SPI` `UART` `CAN`
-
-**Software**
-
-`Linux` `Git` `Node.js` `Next.js` `React`
-
-## Currently learning
-
-`Embedded Systems` · `Linux Internals` · `Go` · `Electronics` · `Automotive Engineering`
-
----
-
-> Most of my projects start with a question rather than a plan.
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=mochafik26-source&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+</div>
