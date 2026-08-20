@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nextjs,ts,python,flask,nodejs,go,cpp,tailwind&perline=10&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,flask,js,ts,linux,nextjs,nodejs,py,react,tailwind,docker" />
 </div>
 
 <div align="center">
