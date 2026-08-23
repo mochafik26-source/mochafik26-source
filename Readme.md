@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,go,flask,js,ts,linux,nextjs,nodejs,py,react,tailwind,docker" />
 </div>
 
-
+<div align="center">
   <img src="https://github-profile-maker.vercel.app/api/streak?username=mochafik26-source&theme=tokyonight&hide_border=false&border_radius=10" width="50%" alt="GitHub Streak" />
 </div>
 
