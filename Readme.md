@@ -8,8 +8,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,go,flask,js,ts,linux,nextjs,nodejs,py,react,tailwind,docker" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=mochafik26-source&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="50%" alt="Top Languages" />
+
   <img src="https://github-profile-maker.vercel.app/api/streak?username=mochafik26-source&theme=tokyonight&hide_border=false&border_radius=10" width="50%" alt="GitHub Streak" />
 </div>
 
