@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,flask,js,ts,linux,nextjs,nodejs,py,react,tailwind,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,flask,js,ts,linux,nextjs,nodejs,py,react,tailwind,docker,expressjs" />
 </div>
 
 <div align="center">
